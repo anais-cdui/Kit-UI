@@ -1,0 +1,265 @@
+/*bouton 1*/
+body{
+    background-color: #1d1d1b;
+}
+
+.ui_btn_1 {
+    display: inline-block;
+    border: none;
+    height: 80px;
+    width: 80px;
+    background-image:url("img-dark/home.svg");
+    overflow:hidden;
+    background-size: cover;
+}
+
+.ui_btn_1:hover {
+    background-image:url("img-dark/home_hover.svg");
+
+}
+
+.ui_btn_1:active {
+    background-image:url("img-dark/home_active.svg");
+
+}
+
+
+/*bouton 2*/
+
+.ui_btn_2 {
+    display: inline-block;
+    height: 80px;
+    width: 80px;
+    background-image:url("img-dark/notice.svg");
+    background-clip: content-box;
+}
+
+.ui_btn_2:hover {
+    background-image:url("img-dark/notice_hover.svg");
+
+}
+
+.ui_btn_2:active {
+    background-image:url("img-dark/notice_active.svg");
+
+}
+
+/*bouton 3*/
+
+.ui_btn_3 {
+    display: inline-block;
+    height: 80px;
+    width: 80px;
+    background-image:url("img-dark/setting.svg");
+    background-clip: content-box;
+}
+
+.ui_btn_3:hover {
+    background-image:url("img-dark/setting_hover.svg");
+
+}
+
+.ui_btn_3:active {
+    background-image:url("img-dark/setting_active.svg");
+
+}
+
+/*bouton 4*/
+
+.ui_btn_4 {
+    display: inline-block;
+    height: 80px;
+    width: 80px;
+    background-image:url("img-dark/contact.svg");
+    background-clip: content-box;
+}
+
+.ui_btn_4:hover {
+    background-image:url("img-dark/contact_hover.svg");
+
+}
+
+.ui_btn_4:active {
+    background-image:url("img-dark/contact_active.svg");
+
+}
+
+/*bouton 5*/
+
+.ui_btn_5 {
+    display: inline-block;
+    height: 80px;
+    width: 80px;
+    background-image:url("img-dark/like.svg");
+    background-clip: content-box;
+}
+
+.ui_btn_5:hover {
+    background-image:url("img-dark/like_hover.svg");
+
+}
+
+.ui_btn_5:active {
+    background-image:url("img-dark/like_active.svg");
+
+}
+
+/*bouton 6*/
+
+.ui_btn_6 {
+    display: inline-block;
+    height: 80px;
+    width: 80px;
+    background-image:url("img-dark/favorite.svg");
+    background-clip: content-box;
+}
+
+.ui_btn_6:hover {
+    background-image:url("img-dark/favorite_hover.svg");
+
+}
+
+.ui_btn_6:active {
+    background-image:url("img-dark/favorite_active.svg");
+
+}
+
+/*bouton 7*/
+
+.ui_btn_7 {
+    display: inline-block;
+    height: 80px;
+    width: 80px;
+    background-image:url("img-dark/user.svg");
+    background-clip: content-box;
+}
+
+.ui_btn_7:hover {
+    background-image:url("img-dark/user_hover.svg");
+
+}
+
+.ui_btn_7:active {
+    background-image:url("img-dark/user_active.svg");
+
+}
+
+/*bouton 8*/
+
+.ui_btn_8 {
+    display: inline-block;
+    height: 80px;
+    width: 80px;
+    background-image:url("img-dark/infos.svg");
+    background-clip: content-box;
+}
+
+.ui_btn_8:hover {
+    background-image:url("img-dark/infos_hover.svg");
+
+}
+
+.ui_btn_8:active {
+    background-image:url("img-dark/infos_active.svg");
+
+}
+
+/*bouton 9*/
+
+.ui_btn_9 {
+    display: inline-block;
+    height: 80px;
+    width: 80px;
+    background-image:url("img-dark/light.svg");
+    background-clip: content-box;
+}
+
+.ui_btn_9:hover {
+    background-image:url("img-dark/light_hover.svg");
+
+}
+
+.ui_btn_9:active {
+    background-image:url("img-dark/light_active.svg");
+
+}
+
+/*bouton 10*/
+
+.ui_btn_10 {
+    display: inline-block;
+    height: 80px;
+    width: 80px;
+    background-image:url("img-dark/insta.svg");
+    background-clip: content-box;
+}
+
+.ui_btn_10:hover {
+    background-image:url("img-dark/insta_hover.svg");
+
+}
+
+.ui_btn_10:active {
+    background-image:url("img-dark/insta_active.svg");
+
+}
+
+/*bouton 11*/
+
+.ui_btn_11 {
+    display: inline-block;
+    height: 80px;
+    width: 80px;
+    background-image:url("img-dark/facebook.svg");
+    background-clip: content-box;
+}
+
+.ui_btn_11:hover {
+    background-image:url("img-dark/facebook_hover.svg");
+
+}
+
+.ui_btn_11:active {
+    background-image:url("img-dark/facebook_active.svg");
+
+}
+
+/*bouton 12*/
+
+.ui_btn_12 {
+    display: inline-block;
+    height: 80px;
+    width: 80px;
+    background-image:url("img-dark/twitter.svg");
+    background-clip: content-box;
+}
+
+.ui_btn_12:hover {
+    background-image:url("img-dark/twitter_hover.svg");
+
+}
+
+.ui_btn_12:active {
+    background-image:url("img-dark/twitter_active.svg");
+
+}
+
+/*bouton 13*/
+
+.ui_btn_13 {
+    display: inline-block;
+    height: 80px;
+    width: 80px;
+    background-image:url("img-dark/youtube.svg");
+    background-clip: content-box;
+}
+
+.ui_btn_13:hover {
+    background-image:url("img-dark/youtube_hover.svg");
+
+}
+
+.ui_btn_13:active {
+    background-image:url("img-dark/youtube_active.svg");
+
+}
